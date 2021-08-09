@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 background: ""
+google_analytics: ""
 # Build settings
 plugins:
   - jekyll-feed
@@ -43,10 +44,6 @@ plugins:
 collections:
    catalogues:
       output: true
-   archive:
-      output: true
-
-
 timezone: Europe/London
 permalink: pretty
 encoding: "utf-8"
