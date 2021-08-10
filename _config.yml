@@ -27,7 +27,7 @@ url: "https://numismatic-catalogues.fitzmuseum.cam.ac.uk" # the base hostname & 
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 background: ""
-google_analytics: ""
+google_analytics: 'G-2R0YLY9DRS'
 # Build settings
 plugins:
   - jekyll-feed
